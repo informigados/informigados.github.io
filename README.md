@@ -28,8 +28,9 @@ We are active across multiple platforms. Follow us to stay updated with our late
 Your feedback drives our quality.
 
 - **Review us on Google**: [g.page/r/CX5dKY5GrqUpEBM/review](https://g.page/r/CX5dKY5GrqUpEBM/review)
-- **Review us on Trustpilot**: [br.trustpilot.com/review/informigados.com.br](https://br.trustpilot.com/review/informigados.com.br)
+- **Review us on Trustpilot**: [trustpilot.com/review/informigados.com.br](https://www.trustpilot.com/review/informigados.com.br)
 
 ## 📝 License
 
 &copy; INformigados. All rights reserved.
+

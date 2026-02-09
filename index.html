@@ -232,11 +232,11 @@
         </section>
     </main>
     <footer class="w-full border-t border-slate-800 py-8 mt-auto">
-        <div class="max-w-4xl mx-auto px-6 flex flex-col md:flex-row justify-between items-center text-sm text-slate-500">
+        <div class="max-w-4xl mx-auto px-6 flex flex-col md:flex-row justify-between items-center text-sm text-slate-200">
             <p><span id="year"></span> &copy; INformigados. Built with clarity.</p>
             <div class="flex items-center gap-3 mt-4 md:mt-0">
                 <img src="br.png" alt="Brazil" width="20" height="15" class="w-5 h-auto">
-                <span class="font-medium text-slate-400">Brazil</span>
+                <span class="font-medium text-slate-200">Brazil</span>
                 <span class="relative flex h-3 w-3">
                   <span class="animate-ping absolute inline-flex h-full w-full rounded-full bg-green-400 opacity-75"></span>
                   <span class="relative inline-flex rounded-full h-3 w-3 bg-green-500"></span>
@@ -246,6 +246,19 @@
     </footer>
     <script>
         document.getElementById('year').textContent = new Date().getFullYear();
+
+        // Register Service Worker for caching
+        if ('serviceWorker' in navigator) {
+            window.addEventListener('load', () => {
+                navigator.serviceWorker.register('./sw.js')
+                    .then(registration => {
+                        console.log('ServiceWorker registration successful');
+                    })
+                    .catch(err => {
+                        console.log('ServiceWorker registration failed: ', err);
+                    });
+            });
+        }
     </script>
 </body>
 </html>

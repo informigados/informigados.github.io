@@ -1,4 +1,4 @@
-const CACHE_NAME = 'informigados-v1';
+const CACHE_NAME = 'informigados-v2';
 const ASSETS_TO_CACHE = [
     './',
     './index.html',

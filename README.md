@@ -11,7 +11,7 @@ Our mission is to solve real problems using technology that evolves without unne
 We are active across multiple platforms. Follow us to stay updated with our latest projects, insights, and behind-the-scenes content.
 
 - **GitHub**: [github.com/informigados](https://github.com/informigados)
-- **X (Twitter)**: [twitter.com/informigados](https://twitter.com/informigados)
+- **X (Twitter)**: [x.com/informigados](https://x.com/informigados)
 - **Instagram**: [instagram.com/informigados](https://www.instagram.com/informigados)
 - **Facebook**: [facebook.com/INformigados](https://www.facebook.com/INformigados)
 - **YouTube**: [youtube.com/@informigados](https://www.youtube.com/@informigados)
@@ -28,9 +28,8 @@ We are active across multiple platforms. Follow us to stay updated with our late
 Your feedback drives our quality.
 
 - **Review us on Google**: [g.page/r/CX5dKY5GrqUpEBM/review](https://g.page/r/CX5dKY5GrqUpEBM/review)
-- **Review us on Trustpilot**: [trustpilot.com/review/informigados.com.br](https://www.trustpilot.com/review/informigados.com.br)
+- **Review us on Trustpilot**: [br.trustpilot.com/review/informigados.com.br](https://br.trustpilot.com/review/informigados.com.br)
 
 ## 📝 License
 
 &copy; INformigados. All rights reserved.
-

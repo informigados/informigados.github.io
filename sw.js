@@ -8,7 +8,7 @@ const ASSETS_TO_CACHE = [
     './logo-white.png'
 ];
 
-// Instalação do Service Worker
+// Service Worker Installation
 self.addEventListener('install', (event) => {
     event.waitUntil(
         caches.open(CACHE_NAME)
@@ -19,7 +19,7 @@ self.addEventListener('install', (event) => {
     );
 });
 
-// Ativação e limpeza de caches antigos
+// Activation and cleanup of old caches
 self.addEventListener('activate', (event) => {
     event.waitUntil(
         caches.keys().then((cacheNames) => {
@@ -34,7 +34,7 @@ self.addEventListener('activate', (event) => {
     );
 });
 
-// Interceptação de requisições (Cache First Strategy)
+// Request interception (Cache First Strategy)
 self.addEventListener('fetch', (event) => {
     event.respondWith(
         caches.match(event.request)

@@ -2,9 +2,13 @@ const CACHE_NAME = 'informigados-v4';
 const ASSETS_TO_CACHE = [
     './',
     './index.html',
+    './br/',
     './br/index.html',
+    './es/',
     './es/index.html',
+    './fr/',
     './fr/index.html',
+    './pt/',
     './pt/index.html',
     './assets/img/logo-white.svg',
     './assets/img/flags/br.png',

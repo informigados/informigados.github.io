@@ -1,11 +1,19 @@
-const CACHE_NAME = 'informigados-v2';
+const CACHE_NAME = 'informigados-v4';
 const ASSETS_TO_CACHE = [
     './',
     './index.html',
-    './logo-white.svg',
-    './br.png',
-    './favicon.svg',
-    './logo-white.png'
+    './br/index.html',
+    './es/index.html',
+    './fr/index.html',
+    './pt/index.html',
+    './assets/img/logo-white.svg',
+    './assets/img/flags/br.png',
+    './assets/img/flags/us.png',
+    './assets/img/flags/es.png',
+    './assets/img/flags/fr.png',
+    './assets/img/flags/pt.png',
+    './assets/img/favicon.svg',
+    './assets/img/logo-white.png'
 ];
 
 // Service Worker Installation

@@ -1,10 +1,8 @@
-# INformigados
+# 🌐 INformigados Website
 
-**Clear logic. Solid structure.**
+The INformigados GitHub Pages site presents our web development, automation, and consulting services. We build and maintain digital solutions with a focus on performance and maintainability.
 
-INformigados is a Brazilian technology company focused on building clear, reliable, and well-structured digital solutions. We emphasize performance, maintainability, and long-term sustainability across web development, automation, and consulting.
-
-Our mission is to solve real problems using technology that evolves without unnecessary complexity.
+[View the site](https://informigados.github.io/)
 
 ## 🤝 Connect With Us
 
@@ -30,6 +28,11 @@ Your feedback drives our quality.
 - **Rate us on Google**: [g.page/r/CX5dKY5GrqUpEBM/review](https://g.page/r/CX5dKY5GrqUpEBM/review)
 - **Rate us on Trustpilot**: [br.trustpilot.com/review/informigados.com.br](https://br.trustpilot.com/review/informigados.com.br)
 
-## 📝 License
+## 👥 Authors
+
+- [Alex Brito](https://github.com/alexbritodev)
+- [INformigados](https://github.com/informigados)
+
+## 📄 License
 
 &copy; INformigados. All rights reserved.

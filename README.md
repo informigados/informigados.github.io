@@ -2,6 +2,9 @@
 
 The INformigados GitHub Pages site presents our web development, automation, and consulting services. We build and maintain digital solutions with a focus on performance and maintainability.
 
+[![GitHub Pages](docs/assets/github-pages.svg)](https://pages.github.com/)
+[![HTML5](docs/assets/html5.svg)](index.html)
+
 [View the site](https://informigados.github.io/)
 
 ## 🤝 Connect With Us
